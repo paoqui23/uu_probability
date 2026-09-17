@@ -4,7 +4,7 @@
 
 We are gambling. You roll one six-sided die.
 
-- if 1 or 2 or 4 is rolled, you win $\$0$,
+- if 1 or 2 or 3 is rolled, you win $\$0$,
 - if 4 or 5 is rolled, you win $\$3$,
 - if a 6 is rolled, you lose $\$-7$.
 
@@ -26,7 +26,7 @@ A weather forecaster has the following track record:
 - when it rains, they predicts rain 80% of the time,
 - when it does not rain, they predicts rain 10% of the time.
 
-If they predicts rain today, what is the probability that it actually rains?
+If they predict rain today, what is the probability that it actually rains?
 
 ### Problem 3:
 
